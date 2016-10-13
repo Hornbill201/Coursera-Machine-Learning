@@ -1,5 +1,5 @@
-# Coursera Machine Learning Project
-Course Project of Coursera Machine Learning Course
+# Coursera Machine Learning Projects
+Course Projects of Coursera Machine Learning Course
 Instructor: Andrew Ng
 
 1. Linear Regression. 
